@@ -9,20 +9,30 @@
 name: Jack Millar
 located_in: Edinburgh, Scotland
 current_occupation: Student
+education:
+  [
+    "Master's in Software Engineering (Ongoing)
+    "Bachelor's in Software Engineering
+  ]
+company: Edinburgh Napier University
+
+fields_of_interests:
+  [
+    "Machine Learning",
+    "Database Design/Development",
+    "DevOps",
+    "Game Development",
+    "Web Development", 
+  ]
+
+technical_background:
+  [
+    "Data Analyst"
+    "Student Placement - Web Application Developer"
+    "Student Demonstrator"
+  ]
+
+currently_learning: ["Python, C# and AI Optimisation"]
+2026/27 Goals: ["Complete Masters and get a Graduate Job in related field"]
+hobbies: ["Tabletop", "Cinema", "Gaming"]
 ```
-
-
-<!--
-**JackoMillar/JackoMillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

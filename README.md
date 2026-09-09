@@ -1,6 +1,10 @@
 
   ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90)
 
+<a href="https://www.linkedin.com/in/jack-millar-a65ba2294/">
+  <img height="50" src="https://github.com/JackoMillar/JackoMillar/blob/master/linkedin-logo_1384889.png"/>
+</a>
+
 
 <!--
 **JackoMillar/JackoMillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

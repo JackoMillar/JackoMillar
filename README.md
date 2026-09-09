@@ -61,3 +61,5 @@ hobbies: ["Tabletop", "Cinema", "Gaming"]
 </p>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JackoMillar&langs_count=5&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=JackoMillar&langs_count=5&theme=shadow_blue)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)

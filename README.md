@@ -5,6 +5,12 @@
   <img height="50" src="https://github.com/JackoMillar/JackoMillar/blob/master/linkedin-logo_1384889.png"/>
 </a>
 
+```yaml
+name: Jack Millar
+located_in: Edinburgh, Scotland
+current_occupation: Student
+```
+
 
 <!--
 **JackoMillar/JackoMillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

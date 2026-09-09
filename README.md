@@ -33,6 +33,6 @@ technical_background:
   ]
 
 currently_learning: ["Python, C# and AI Optimisation"]
-2026/27 Goals: ["Complete Masters and get a Graduate Job in related field"]
+2026/27 Goals: ["Complete Masters and enter Graduate Job in related field"]
 hobbies: ["Tabletop", "Cinema", "Gaming"]
 ```

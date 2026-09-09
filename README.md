@@ -59,4 +59,5 @@ hobbies: ["Tabletop", "Cinema", "Gaming"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" height="45"/>    
 </p>
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=JackoMillar&langs_count=5&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=JackoMillar&langs_count=5&theme=shadow_blue)
